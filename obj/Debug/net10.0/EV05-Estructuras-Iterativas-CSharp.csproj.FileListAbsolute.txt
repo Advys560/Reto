@@ -1,0 +1,14 @@
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\bin\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.exe
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\bin\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.deps.json
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\bin\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.runtimeconfig.json
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\bin\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.dll
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\bin\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.pdb
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\obj\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\obj\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.AssemblyInfoInputs.cache
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\obj\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.AssemblyInfo.cs
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\obj\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\obj\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.dll
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\obj\Debug\net10.0\refint\EV05-Estructuras-Iterativas-CSharp.dll
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\obj\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.pdb
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\obj\Debug\net10.0\EV05-Estructuras-Iterativas-CSharp.genruntimeconfig.cache
+C:\Users\santt\Downloads\EV05-Estructuras-Iterativas-CSharp\obj\Debug\net10.0\ref\EV05-Estructuras-Iterativas-CSharp.dll
